@@ -1,0 +1,1 @@
+console.log("ceci est un script externe");

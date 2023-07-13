@@ -1,0 +1,39 @@
+body{
+    background-image: url(img/fond.png);
+    background-size: cover;
+    background-repeat: none;
+}
+form{
+    background-color: rgb(36, 110, 194);
+    width: 450px;
+    height: 300px;
+    border-radius: 20px;
+    margin: 300px auto ;
+    
+}
+h1{
+    padding-top: 10px;
+    text-align: center;
+    color: rgb(53, 176, 233);
+    
+}
+input{
+    width: 90%;
+    margin-top: 10px;
+    border-radius: 10px;
+    height: 40px;
+    border: none;
+
+}
+
+.myBtn button{
+    width: 90%;
+    height: 40px;
+    border-radius: 10px;
+    margin-top: 10px;
+    background-color: rgb(6, 90, 185);
+    border: none;
+}
+img{
+    width: 30px;
+}

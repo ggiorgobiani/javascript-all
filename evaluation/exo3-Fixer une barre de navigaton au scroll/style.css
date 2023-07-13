@@ -1,0 +1,15 @@
+.myText{
+margin: 30px 100px 30px 100px;
+
+}
+
+.navbar-nav{
+    width: 100%;
+    height: 40px;
+    text-align: right;
+
+}
+.navbar-link{
+ background-color: black;  
+}
+

@@ -1,0 +1,39 @@
+footer {
+    margin-top: 145px;
+}
+footer> .card{
+    background-color: rgb(2, 14, 27);
+    border-radius: 0%;
+}
+.navbar-nav{
+    padding-left: 30%;
+}
+.navbar-nav>li{
+    padding-left: 50px;
+}
+.navbar-nav>li>a{
+    color: aliceblue;
+}
+nav{
+    background-color: rgb(2, 14, 27);
+}
+.navbar-toggler{
+    background-color: aliceblue;
+}
+.mainDiv {
+ padding-top: 30px;
+ margin: auto;
+ display: flex;
+ justify-content: center;
+}
+.card>img {
+    height: 200px;
+    width: 100%;
+}
+.col{
+    width: 200px;
+}
+body{
+    background-image: url(img/imgbackground/backgroundwallpaper.jpg);
+}
+

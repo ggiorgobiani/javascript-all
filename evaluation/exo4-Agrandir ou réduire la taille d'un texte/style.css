@@ -1,0 +1,58 @@
+.monSite{
+  text-align: center;
+}
+.navbar-nav {
+  margin-left: 43%;
+  
+}
+.mainDiv {
+  border-radius: 10px;
+  margin: auto;
+  box-shadow: 1px 1px 3px black;
+  height: 700px;
+  width: 1000px;
+  
+}
+.blueA{
+color: blue;
+font-size: 20px;
+text-decoration: none;
+}
+.grisA {
+  color: gray;
+  text-decoration: none;
+}
+.divList{
+  margin-bottom: 40px;
+}
+.titre{
+  text-align: center;
+  color: gray;
+}
+label {
+  background-color: black;
+  color: white;
+  width: 200px;
+  height: 30px;
+  padding-left: 10px;
+}
+.myBtn {
+  padding: 40px 0px 40px 50px;
+  margin-right: 30px;
+  border-bottom: 1px solid black;
+}
+button{
+  width: 30px;
+ 
+}
+
+#progressBar {
+    width: 300px;
+    height: 20px;
+    border: 1px solid black;
+  }
+  
+  #progressBarFill {
+    height: 100%;
+    background-color: green;
+  }

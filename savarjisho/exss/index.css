@@ -1,0 +1,16 @@
+.side-nav{
+    width: 100px;
+    display: flex;
+    flex-direction: column;
+    height: 100vh;
+    position: absolute;
+}
+.container{
+    margin-left: 100px;
+}
+.form-check{
+    margin-left: 300px;
+}
+.input-group{
+    margin-left: 300px;
+}

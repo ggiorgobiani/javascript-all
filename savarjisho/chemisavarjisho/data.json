@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "title": "Bougie pilier côtelé",
+        "description": "Ces bougies sont décoratives, chics et intemporelles,mais si vous souhaitez les faire brûler, ne les allumez pas plus de 3 heures à la fois. ",
+        "illustration": "https://leavesandco.fr/2805-large_default/bougie-pilier-cotele-rose-poudre.jpg",
+        "price": 14
+    },
+    {
+        "id": 2,
+        "title": "Bougie en U ",
+        "description": "Bougie en forme de U - Bougies arquées - Décoration - Abstraite - Bougies incurvées - Riffle - Nervuré ",
+        "illustration": "https://i.etsystatic.com/28950437/r/il/fd604c/3676021980/il_794xN.3676021980_3bae.jpg",
+        "price": 24
+    },
+    {
+        "id": 3,
+        "title": "Set Butt Candle",
+        "description": "Bougies artisanales. Nous coulons nous-mêmes les bougies avec de la cire de colza 100% biodégradable.",
+        "illustration": "https://i.etsystatic.com/30777752/r/il/5ac608/3406939220/il_794xN.3406939220_50ws.jpg",
+        "price": 18
+    },
+    {
+        "id": 4,
+        "title": "Lune En forme de soleil",
+        "description": "Lune En forme de soleil",
+        "illustration": "https://img.joomcdn.net/8eef7111d69567562e412267c6e34d984a59a26e_original.jpeg",
+        "price": 45
+    },
+    {
+        "id": 5,
+        "title": "Bougie XXL ARCH",
+        "description": "Végétalien, durable et sans cruauté, esthétique, décoration",
+        "illustration": "https://i.etsystatic.com/28950437/r/il/407ebb/3467126401/il_794xN.3467126401_8wiw.jpg",
+        "price": 33
+    }
+
+]
